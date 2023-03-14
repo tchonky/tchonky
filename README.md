@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋, I'm Daniel Polistchuck</h1>
 <h3 align="center">An architect who is curious about everything, especially how the human brain🧠 works</h3>
 
-- 🔭 I’m currently working on **Trying to find time. Working 50 hours a week as an architect doesn't leave much time for side projects**
+- 🔭 I’m currently working on **finding time. Working 50 hours a week as an architect doesn't leave much time for side projects**
 
 - 🌱 I’m currently learning **Git, SQL, PyTorch**
 
